@@ -62,4 +62,7 @@ button{
     box-shadow: inset -5px -5px 12px #fff,
                 inset 5px 5px 12px rgba(0, 0, 0, .16);
     color: rgb(70, 70, 70);
+    font-size: 21px;
+    font-weight: 600;
+    border-radius: 50%;
 }
