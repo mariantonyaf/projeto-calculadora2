@@ -42,11 +42,15 @@ input{
     border-radius: 25px;
     text-align: right;
     background-color: #ecf0f3;
-    box-shadow: inset 5px 5px 12px #fff,
-    inset 5px 5px 12px rgba(0, 0, 0, .16);
+    box-shadow: inset -5px -5px 12px #fff,
+                inset 5px 5px 12px rgba(0, 0, 0, .16);
     color: rgb(70, 70, 70);
 }
 
 input::placeholder{
     color: #000;
+}
+
+button{
+
 }
