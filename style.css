@@ -52,5 +52,14 @@ input::placeholder{
 }
 
 button{
-
+    padding: 15px;
+    border: none;
+    outline: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #ecf0f3;
+    box-shadow: inset -5px -5px 12px #fff,
+                inset 5px 5px 12px rgba(0, 0, 0, .16);
+    color: rgb(70, 70, 70);
 }
