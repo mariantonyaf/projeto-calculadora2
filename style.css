@@ -69,3 +69,58 @@ button{
     cursor: pointer;
 }
 
+button:hover{
+    background-color: plum;
+    color: #000;
+    box-shadow: 0 0 5px plum,
+                0 0 25px plum,
+                0 0 50px plum,
+                0 0 100px plum;
+}
+
+.equal{
+    width: 144px;
+    font-weight: 700;
+    border-radius: 1rem;
+    background-color: #ecf0f3;
+    color: #000;
+}
+
+.equal:hover{
+    background-color: lightpink;
+    color: #000;
+    box-shadow: 0 0 5px lightpink,
+                0 0 25px lightpink,
+                0 0 50px lightpink,
+                0 0 100px lightpink;
+}
+
+.clear{
+    background-color: #ecf0f3;
+    font-weight: 400;
+    color: #000;
+    border: none;
+}
+
+.clear:hover{
+    background-color: lightpink;
+    color: #fff;
+    box-shadow: 0 0 5px lightpink,
+                0 0 25px lightpink,
+                0 0 50px lightpink,
+                0 0 100px lightpink;
+}
+
+.main{
+    background-color: #ecf0f3;
+    color: #000;
+}
+
+.main:hover{
+    background-color: lightblue;
+    color: #000;
+    box-shadow: 0 0 5px lightblue,
+                0 0 25px lightblue,
+                0 0 50px lightblue,
+                0 0 100px lightblue;
+}
